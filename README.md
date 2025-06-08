@@ -55,8 +55,8 @@ Want to contribute your own template? Awesome!
 ## 📬 Stay Connected
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thinakaran-manohar/)  
-📧 Email: yourname@example.com  
-🌐 Portfolio: [yourwebsite.com](https://thinakaranmanokaran.netlify.app/)
+📧 Email(dheenamanohar@gmail.com)  
+🌐 Portfolio(https://thinakaranmanokaran.netlify.app/)
 
 ---
 
